@@ -15,7 +15,7 @@ KH has its own website for JS scripts. It redirects you back to the normal KH th
 4th Discovery: **window**:
 Not much. By @dates4u (formerly hi1cooler)
 
-5th Discovery: **getMathalonStars**:
+5th Discovery: **getMathalonStars**: <br/>
 Checking the sources in the /app/ directory, you will see a file named **"common.ff7eefd85c2771ce.js"**.
 There is a function in it called getMathalonStars. It seemed like a big discovery.
 
