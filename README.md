@@ -4,16 +4,16 @@
 ## - Discoveries -
 
 First Discovery: **MathJax**: <br/>
-  -  We figured out KH uses MathJax, a thing that renders high quality math stuff in JS and CSS. By @PlacidityIsEpic
+  -  We figured out KH uses MathJax, a thing that renders high quality math stuff in JS and CSS. By @PlacidityIsEpic <br/>
 
 Second Discovery: **kh-count-to**: <br/>
-  - A thing in the mathalon counter. Not much. By @PlacidityIsEpic
+  - A thing in the mathalon counter. Not much. By @PlacidityIsEpic <br/>
 
 Third Discovery: **appjs.knowledgehook.com**: <br/>
-  - KH has its own website for JS scripts. It redirects you back to the normal KH tho. By @dates4u (formerly hi1cooler)
+  - KH has its own website for JS scripts. It redirects you back to the normal KH tho. By @dates4u (formerly hi1cooler) <br/>
 
 4th Discovery: **window**: <br/>
-  - Not much. By @dates4u (formerly hi1cooler)
+  - Not much. By @dates4u (formerly hi1cooler) <br/>
 
 5th Discovery: **getMathalonStars**: <br/>
   - Checking the sources in the /app/ directory, you will see a file named **"common.ff7eefd85c2771ce.js"**.
@@ -30,3 +30,4 @@ Third Discovery: **appjs.knowledgehook.com**: <br/>
     }
   }
   ```
+<br/>
